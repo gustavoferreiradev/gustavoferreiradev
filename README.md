@@ -31,7 +31,7 @@ Desenvolvedor Web Front-End, um grande curioso, observador, curioso e entusiasta
 
 <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/> <img alt="NodeJS" src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>
 
-**CMS**
+**Blogs**
 
 <img alt="WordPress" src="https://img.shields.io/badge/-Wordpress-21759B?style=for-the-badge&logo=Wordpress&logoColor=white"/>
 
