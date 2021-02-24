@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo 👋
 
-Desenvolvedor Web Front-End, um grande curioso, observador, curioso e entusiasta de tecnologia.
+Desenvolvedor Web Front-End, um grande curioso, observador e entusiasta de tecnologia.
 
 - :rocket: Atualmente trabalho na <a href="https://smartcon.dev.br">Smartcon</a>, cujo principal produto é a Agenda Escolar Digital <a href="https://sistemasmartcare.com.br">SmartBaby</a>
 - :books: Atualmente estudando JavaScript, TypeScript, NodeJS, ReactJS e React Native
